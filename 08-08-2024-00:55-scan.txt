@@ -1,0 +1,43 @@
+Отчёт о состоянии системы:
+Пользователи системы: macbookpro, _windowserver, _driverkit, _locationd, root, _netbios, _spotlight, _trustd, _applepay, _datadetectors, _nsurlsessiond, _assetcache, _gamecontrollerd, _softwareupdate, _installcoordinationd, _rmd, _fpsd, _captiveagent, _ctkd, _nearbyd, _appleevents, _hidd, _accessoryupdater, _cmiodalassistants, _coreaudiod, _mdnsresponder, _networkd, _iconservices, _analyticsd, _biome, _distnote, _timed, _usbmuxd, _displaypolicyd
+Процессов запущено: 591
+Пользовательских процессов:
+macbookpro: 345
+_windowserver: 2
+_driverkit: 3
+_locationd: 7
+root: 174
+_netbios: 1
+_spotlight: 5
+_trustd: 1
+_applepay: 3
+_datadetectors: 1
+_nsurlsessiond: 3
+_assetcache: 3
+_gamecontrollerd: 3
+_softwareupdate: 7
+_installcoordinationd: 1
+_rmd: 7
+_fpsd: 2
+_captiveagent: 1
+_ctkd: 1
+_nearbyd: 1
+_appleevents: 2
+_hidd: 1
+_accessoryupdater: 1
+_cmiodalassistants: 3
+_coreaudiod: 4
+_mdnsresponder: 1
+_networkd: 1
+_iconservices: 1
+_analyticsd: 1
+_biome: 1
+_distnote: 1
+_timed: 1
+_usbmuxd: 1
+_displaypolicyd: 1
+...
+Всего памяти используется: 76.1%
+Всего CPU используется: 125.0%
+Больше всего памяти использует: (12.0%) /Applications/PyChar
+Больше всего CPU использует: (92.6%) /Applications/PyChar
